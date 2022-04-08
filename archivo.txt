@@ -4,3 +4,5 @@ Arriba las chivas
 Abajo el america
 Que onda raza
 JIJIJIJA
+awuita de UwU 
+print ("hola mundo xd")
